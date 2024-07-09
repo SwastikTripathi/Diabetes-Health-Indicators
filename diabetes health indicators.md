@@ -1463,7 +1463,7 @@ plt.show()
 
 
     
-![png](output_15_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_15_0.png)
     
 
 
@@ -1475,7 +1475,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_16_0.png)
     
 
 
@@ -1487,7 +1487,7 @@ plt.show()
 
 
     
-![png](output_17_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_17_0.png)
     
 
 
@@ -1499,7 +1499,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_18_0.png)
     
 
 
@@ -2403,7 +2403,7 @@ sns.heatmap(data.corr(), vmin=-1, vmax=1)
 
 
     
-![png](output_23_1.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_23_1.png)
     
 
 
@@ -2420,7 +2420,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_24_0.png)
     
 
 
@@ -2443,7 +2443,7 @@ plotGrouped('PhysActivity')
 
 
     
-![png](output_26_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_26_0.png)
     
 
 
@@ -2473,7 +2473,7 @@ plotStacked(['AnyHealthcare', 'NoDocbcCost'], 'Healthcare Access Rating')
 
 
     
-![png](output_28_1.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_28_1.png)
     
 
 
@@ -2493,7 +2493,7 @@ plotStacked(['Education', 'Income'], 'Income and Education Status')
 
 
     
-![png](output_30_1.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_30_1.png)
     
 
 
@@ -2515,7 +2515,7 @@ plotBox('GenHlth', 'General Health')
 
 
     
-![png](output_32_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_32_0.png)
     
 
 
@@ -2526,7 +2526,7 @@ plotBox('PhysHlth', 'Physical Health')
 
 
     
-![png](output_33_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_33_0.png)
     
 
 
@@ -3147,7 +3147,7 @@ plt.show()
 
 
     
-![png](output_79_0.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_79_0.png)
     
 
 
@@ -3247,7 +3247,7 @@ plt.show()
 
 
     
-![png](output_82_1.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_82_1.png)
     
 
 
@@ -3320,7 +3320,7 @@ plt.show()
 
 
     
-![png](output_84_1.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_84_1.png)
     
 
 
@@ -3395,7 +3395,7 @@ plt.show()
 
 
     
-![png](output_86_1.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_86_1.png)
     
 
 
@@ -3517,7 +3517,7 @@ plt.show()
 
 
     
-![png](output_92_2.png)
+![png](diabetes%20health%20indicators_files/diabetes%20health%20indicators_92_2.png)
     
 
 
